@@ -17,7 +17,7 @@ version = '1.0-SNAPSHOT'
 
 
 android {
-    compileSdkVersion 23
+    compileSdkVersion 24
     buildToolsVersion '23.0.3'
     // resourcePrefix 'mpcht'
     defaultConfig {
@@ -47,7 +47,7 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:23.3.0'
+    compile 'com.android.support:support-v4:24.1.1'
 }
 
 
